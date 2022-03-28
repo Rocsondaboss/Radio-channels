@@ -20,3 +20,7 @@ https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.int
 http://ice55.securenetsystems.net/DASH34?
 #EXTINF:0,KXKL 105.1 FM Denver, CO
 http://14083.live.streamtheworld.com:80/KXKLFMAAC_SC
+#EXTINF:0,Oldies 102.3 - KTRQ
+http://thassos.cdnstream.com:5205/stream
+http://ice64.securenetsystems.net/WGNYFM
+http://24503.live.streamtheworld.com:80/WBZDFMAAC_SC
