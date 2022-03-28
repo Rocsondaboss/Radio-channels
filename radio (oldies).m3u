@@ -16,3 +16,7 @@ https://tuner.m1.fm/oldies.mp3
 https://1a-oldies.radionetz.de/1a-oldies.mp3
 #EXTINF:0,Magic Oldies Florida
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:8004/listen.pls&t=.pls
+#EXTINF:0,Dash Radio - The Oldies
+http://ice55.securenetsystems.net/DASH34?
+#EXTINF:0,KXKL 105.1 FM Denver, CO
+http://provisioning.streamtheworld.com/pls/KXKLFMAAC.pls
