@@ -14,3 +14,5 @@ https://tuner.m1.fm/oldies.mp3
 #EXTINF:0,1a-oldies.mp3
 #EXTVLCOPT:network-caching=1000
 https://1a-oldies.radionetz.de/1a-oldies.mp3
+#EXTINF:0,Magic Oldies Florida
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:8004/listen.pls&t=.pls
