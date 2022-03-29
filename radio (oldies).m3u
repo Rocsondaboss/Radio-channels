@@ -30,3 +30,9 @@ http://us1.internet-radio.com:8661/
 http://classichitsradio.streamingmedia.it:8017/play
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
+#EXTINF:0,987 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:0,Hot Hitz - 100hitz
+https://pureplay.cdnstream1.com/6027_128.mp3
+#EXTINF:0,Top 40 - 100hitz
+https://pureplay.cdnstream1.com/6025_64.aac
