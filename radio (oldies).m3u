@@ -5,9 +5,6 @@ http://7619.live.streamtheworld.com:80/977_OLDIES_SC
 #EXTINF:0,oldoldies?ref=radiode
 #EXTVLCOPT:network-caching=1000
 https://stream.laut.fm/oldoldies?ref=radiode
-#EXTINF:0,mp3?aw_0_1st.playerid=radio.de
-#EXTVLCOPT:network-caching=1000
-https://stream.antenne.de/antenne/stream/mp3?aw_0_1st.playerid=radio.de
 #EXTINF:0,oldies.mp3
 #EXTVLCOPT:network-caching=1000
 https://tuner.m1.fm/oldies.mp3
@@ -36,3 +33,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
 https://pureplay.cdnstream1.com/6027_128.mp3
 #EXTINF:0,Top 40 - 100hitz
 https://pureplay.cdnstream1.com/6025_64.aac
+#EXTINF:0,RPR1.Oldies
+https://stream.rpr1.de/oldies/aac-128/radiode
+#EXTINF:0,Soul 4 U Radio
+http://wav.carbonwav.com:2780/stream
+#EXTINF:0,z109 - ALL THE HITS
+http://janus.cdnstream.com:5598/stream2_autodj
