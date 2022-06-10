@@ -20,15 +20,18 @@ http://14083.live.streamtheworld.com:80/KXKLFMAAC_SC
 #EXTINF:0,Oldies 102.3 - KTRQ
 http://thassos.cdnstream.com:5205/stream
 http://ice64.securenetsystems.net/WGNYFM
-http://24503.live.streamtheworld.com:80/WBZDFMAAC_SC
-#EXTINF:0,Hubcap Classics
-http://us1.internet-radio.com:8661/
+#EXTINF:0,Bremen Eins
+https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/msnbcfree/master.m3u8
+#EXTINF:0,57 Chevy Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM.mp3
 #EXTINF:0,WCNY HD2 O
 http://www.surfmusic.de/m3u/wcny-hd2-o,20391.m3u
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
 #EXTINF:0,987 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.
+#EXTINF:-1,A100
+http://hestia.cdnstream.com:80/1565_128
 #EXTINF:0,Hot Hitz - 100hitz
 https://pureplay.cdnstream1.com/6027_128.mp3
 #EXTINF:0,Top 40 - 100hitz
@@ -37,5 +40,3 @@ https://pureplay.cdnstream1.com/6025_64.aac
 https://stream.rpr1.de/oldies/aac-128/radiode
 #EXTINF:0,Soul 4 U Radio
 http://wav.carbonwav.com:2780/stream
-#EXTINF:0,z109 - ALL THE HITS
-http://janus.cdnstream.com:5598/stream2_autodj
