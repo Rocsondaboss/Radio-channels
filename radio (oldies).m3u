@@ -19,16 +19,16 @@ http://ice55.securenetsystems.net/DASH34?
 http://www.surfmusic.de/m3u/wcny-hd2-o,20391.m3u
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
+#EXTINF:-1,
+http://us1.internet-radio.com:8118/
 #EXTINF:-1,A100
 http://hestia.cdnstream.com:80/1565_128
 #EXTINF:-1,
 http://powerhitz.powerhitz.com:7000
 #EXTINF:-1,
 http://www.977music.com/tunein/web/jamz2.asx
-#EXTINF:0,Hot Hitz - 100hitz
-https://pureplay.cdnstream1.com/6027_128.mp3
-#EXTINF:0,Top 40 - 100hitz
-https://pureplay.cdnstream1.com/6025_64.aac
+#EXTINF:-1,90.7 Love Radio Manila
+https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:0,RPR1.Oldies
 https://stream.rpr1.de/oldies/aac-128/radiode
 #EXTINF:0,Soul 4 U Radio
