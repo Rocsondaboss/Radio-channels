@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,3. (null)
 #EXTVLCOPT:network-caching=1000
-http://7619.live.streamtheworld.com:80/977_OLDIES_SC
+http://www.977music.com/tunein/web/oldies2.asx
 #EXTINF:0,oldoldies?ref=radiode
 #EXTVLCOPT:network-caching=1000
 https://stream.laut.fm/oldoldies?ref=radiode
@@ -15,30 +15,20 @@ https://1a-oldies.radionetz.de/1a-oldies.mp3
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:8004/listen.pls&t=.pls
 #EXTINF:0,Dash Radio - The Oldies
 http://ice55.securenetsystems.net/DASH34?
-#EXTINF:0,KXKL 105.1 FM Denver, CO
-http://14083.live.streamtheworld.com:80/KXKLFMAAC_SC
-#EXTINF:0,Oldies 102.3 - KTRQ
-http://thassos.cdnstream.com:5205/stream
-#EXTINF:0,
-http://ice64.securenetsystems.net/WGNYFM
-#EXTINF:0,Bremen Eins
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/msnbcfree/master.m3u8
-#EXTINF:0,57 Chevy Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM.mp3
 #EXTINF:0,WCNY HD2 O
 http://www.surfmusic.de/m3u/wcny-hd2-o,20391.m3u
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
-#EXTINF:0,987 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.
 #EXTINF:-1,A100
 http://hestia.cdnstream.com:80/1565_128
+#EXTINF:-1,
+http://powerhitz.powerhitz.com:7000
+#EXTINF:-1,
+http://www.977music.com/tunein/web/jamz2.asx
 #EXTINF:0,Hot Hitz - 100hitz
 https://pureplay.cdnstream1.com/6027_128.mp3
 #EXTINF:0,Top 40 - 100hitz
 https://pureplay.cdnstream1.com/6025_64.aac
-#EXTINF:0,My105 All the Hits
-http://stream01.my105.ch/my105allthehits-aac.mp3
 #EXTINF:0,RPR1.Oldies
 https://stream.rpr1.de/oldies/aac-128/radiode
 #EXTINF:0,Soul 4 U Radio
