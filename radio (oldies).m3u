@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:0,3. (null)
+#EXTINF:0,977 HITS - Oldies
 #EXTVLCOPT:network-caching=1000
-http://www.977music.com/tunein/web/oldies2.asx
+http://7599.live.streamtheworld.com:80/977_OLDIES_SC
+#EXTINF:0,Oldies 104 - Streaming Your Favorites! - A Star104.net Station
+http://hestia2.cdnstream.com:80/1076_128
+#EXTINF:0,
+http://c11.radioboss.fm:8346/autodj
 #EXTINF:0,oldoldies?ref=radiode
 #EXTVLCOPT:network-caching=1000
 https://stream.laut.fm/oldoldies?ref=radiode
@@ -13,10 +17,8 @@ https://tuner.m1.fm/oldies.mp3
 https://1a-oldies.radionetz.de/1a-oldies.mp3
 #EXTINF:0,Magic Oldies Florida
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:8004/listen.pls&t=.pls
-#EXTINF:0,Dash Radio - The Oldies
-http://ice55.securenetsystems.net/DASH34?
-#EXTINF:0,WCNY HD2 O
-http://www.surfmusic.de/m3u/wcny-hd2-o,20391.m3u
+#EXTINF:0,Oldies 103
+http://sc1.slable.com:8018/live
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
 #EXTINF:-1,
@@ -24,9 +26,13 @@ http://us1.internet-radio.com:8118/
 #EXTINF:-1,A100
 http://hestia.cdnstream.com:80/1565_128
 #EXTINF:-1,
+http://ais-edge10-113fm-bhs06.cdnstream.com:80/1812_128
+#EXTINF:-1,
 http://powerhitz.powerhitz.com:7000
 #EXTINF:-1,
 http://www.977music.com/tunein/web/jamz2.asx
+#EXTINF:-1,
+http://fr1.amfmph.com:8109/live
 #EXTINF:-1,90.7 Love Radio Manila
 https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:0,RPR1.Oldies
