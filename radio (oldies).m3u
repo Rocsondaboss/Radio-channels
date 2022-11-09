@@ -15,18 +15,12 @@ https://tuner.m1.fm/oldies.mp3
 #EXTINF:0,1a-oldies.mp3
 #EXTVLCOPT:network-caching=1000
 https://1a-oldies.radionetz.de/1a-oldies.mp3
-#EXTINF:0,Magic Oldies Florida
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk4.internet-radio.com:8004/listen.pls&t=.pls
 #EXTINF:0,Oldies 103
 http://sc1.slable.com:8018/live
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
-#EXTINF:0,True Oldies Channel
-http://fortv.cc:8080/jsc/jsc/122804
 #EXTINF:-1,
 http://us1.internet-radio.com:8118/
-#EXTINF:-1,A100
-http://hestia.cdnstream.com:80/1565_128
 #EXTINF:-1,
 http://ais-edge10-113fm-bhs06.cdnstream.com:80/1812_128
 #EXTINF:-1,
