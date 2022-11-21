@@ -47,3 +47,7 @@ http://us1.internet-radio.com:8118/listen.pls&t=.m3u
 http://49.12.129.103:7016
 #EXTINF:0,1000 Oldies
 https://stream.laut.fm/1000oldies.m3u&t=.m3u
+#EXTINF:0,Online Radio
+http://puma.streemlion.com:2580/stream
+#EXTINF:0,CBA
+http://alpha889.ddns.net:8760/CBA
