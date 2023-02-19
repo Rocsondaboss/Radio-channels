@@ -19,10 +19,16 @@ https://1a-oldies.radionetz.de/1a-oldies.mp3
 http://sc1.slable.com:8018/live
 #EXTINF:0,Guldkanalen 60
 http://guldkanalen.se/static/streamGK60/96AAC.pls
-#EXTINF:-1,
+#EXTINF:1,
 http://us1.internet-radio.com:8118/
-#EXTINF:-1,
-http://ais-edge10-113fm-bhs06.cdnstream.com:80/1812_128
+#EXTINF:1,WWKL FM 92.1 Hot 92
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC
+#EXTINF:-1,987FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC_SC
+#EXTINF:-1,DWOM
+https://stream.zeno.fm/4cyps93bzs8uv
+#EXTINF:1,93.1 Jamz - WJQM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WJQMFM.mp3
 #EXTINF:-1,
 http://powerhitz.powerhitz.com:7000
 #EXTINF:-1,Jamz
