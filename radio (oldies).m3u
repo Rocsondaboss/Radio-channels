@@ -21,6 +21,12 @@ http://sc1.slable.com:8018/live
 http://guldkanalen.se/static/streamGK60/96AAC.pls
 #EXTINF:1,
 http://us1.internet-radio.com:8118/
+#EXTINF:1,K-JO 105.5
+http://52.0.41.232/eagleradio-kkjofmaac-ibc4?session-id=3bfa17df627d674f5d0ed4ad0b6df46c
+#EXTINF:1,WFKL
+http://ice23.securenetsystems.net/WFKL
+#EXTINF:1,KHMY2
+http://ice9.securenetsystems.net/KHMY2
 #EXTINF:1,WWKL FM 92.1 Hot 92
 https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC
 #EXTINF:-1,987FM
