@@ -55,6 +55,8 @@ http://wav.carbonwav.com:2780/stream
 http://www.surfmusic.de/m3u/rj-100-3-fm,13221.m3u
 #EXTINF:0,Star FM Cotabato
 http://www.surfmusic.de/m3u/star-fm-cotabato-93-7-fm,14589.m3u
+#EXTINF:0,Energy FM
+https://ph-icecast-win.eradioportal.com:8443/energyfm_manila
 #EXTINF:0,YES! FM 101.1 Manila
 http://www.surfmusic.de/m3u/yes-fm-101-1-manila,16736.m3u
 #EXTINF:0,Hit List Radio - Tulsa
